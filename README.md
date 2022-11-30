@@ -21,4 +21,6 @@ email validation and mandatory inputs :
 
 ![Screenshot_20221130_203245](https://user-images.githubusercontent.com/96100321/204835030-b0e91aad-4e8a-4088-b2ca-77025ee66185.png)
 
+After i confused about question so no moving forward..
+
 
